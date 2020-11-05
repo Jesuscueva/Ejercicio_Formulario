@@ -27,8 +27,9 @@ form > input {
     height: 100%;
     width: 100%;
     border: none;
-    font-size: 18px;
+    font-size: 10px;
     border-bottom: 2px solid rgb(242, 242, 242);
+    outline: 0;
 }
 
 
